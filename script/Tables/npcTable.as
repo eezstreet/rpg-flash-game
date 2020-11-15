@@ -1,0 +1,14 @@
+﻿var npcTable:Array = new Array();
+npcTable[0] = "Guard";
+npcTable[1] = "Market Guard";
+npcTable[2] = "Newspaper Vendor";
+npcTable[3] = "Mayor of Squareville";
+npcTable[4] = "Police Chief Frank";
+npcTable[5] = "Deputy Warren";
+npcTable[6] = "Old Sage";
+npcTable[7] = "Quartermaster Drake";
+npcTable[8] = "Carl Junebug (dead)";
+npcTable[9] = "Employee";
+npcTable[10] ="Doctor Ralston, MD";
+npcTable[11] ="Guard (dead)";
+npcTable[12] ="Survivor";

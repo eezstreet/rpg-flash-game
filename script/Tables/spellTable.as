@@ -1,0 +1,27 @@
+﻿spellTable[0][0] = "Basic Shot"; //name
+spellTable[0][1] = "Rank 1"; //rank string
+spellTable[0][2] = "A basic shot, dealing 1-3 damage"; //description
+spellTable[0][3] = "Instant"; //spell cast time
+spellTable[0][4] = "0.2 sec cooldown"; //cooldown string
+spellTable[0][5] = 1;  //minimum damage
+spellTable[0][6] = 3; //max damage
+spellTable[0][7] = 200; //cooldown, in msec
+spellTable[0][8] = 0; //function to call upon use
+spellTable[0][9] = 0; //amount of time it takes to cast (?)
+spellTable[0][10] = true; //learned by default?
+spellTable[0][11] = 0; //rank grouping
+spellTable[0][12] = "Ranged"; //damage type
+
+spellTable[1][0] = "Slow Shot"; //name
+spellTable[1][1] = "Rank 1"; //rank string
+spellTable[1][2] = "A slow shot, dealing 7 damage"; //description
+spellTable[1][3] = "Instant"; //spell cast time
+spellTable[1][4] = "1 sec cooldown"; //cooldown string
+spellTable[1][5] = 7;  //minimum damage
+spellTable[1][6] = 7; //max damage
+spellTable[1][7] = 1000; //cooldown, in msec
+spellTable[1][8] = 1; //function to call upon use
+spellTable[1][9] = 0; //amount of time it takes to cast (?)
+spellTable[1][10] = true; //learned by default?
+spellTable[1][11] = 1; //rank grouping
+spellTable[1][12] = "Ranged"; //damage type

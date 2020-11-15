@@ -1,0 +1,43 @@
+﻿<flash_project name="Project" version="1">
+    <project_folder name="Scripts" expanded="false">
+        <project_folder name="UI" expanded="false">
+            <project_file path="./script/UI/npc.as" filetype="as" />
+            <project_file path="./script/UI/read.as" filetype="as" />
+            <project_file path="./script/UI/helper.as" filetype="as" />
+            <project_file path="./script/UI/tooltip.as" filetype="as" />
+        </project_folder>
+        <project_folder name="Tables" expanded="false">
+            <project_file path="./script/Tables/spellTable.as" filetype="as" />
+            <project_file path="./script/Tables/itemTable.as" filetype="as" />
+            <project_file path="./script/Tables/npcTable.as" filetype="as" />
+            <project_file path="./script/Tables/expTable.as" filetype="as" />
+            <project_file path="./script/Tables/monsterTable.as" filetype="as" />
+        </project_folder>
+        <project_folder name="AI" expanded="false">
+            <project_file path="./script/AI/AI.as" filetype="as" />
+            <project_file path="./script/AI/Idle.as" filetype="as" />
+            <project_file path="./script/AI/Warrior.as" filetype="as" />
+            <project_file path="./script/AI/Wildlife.as" filetype="as" />
+        </project_folder>
+        <project_file path="./script/Inventory.as" filetype="as" />
+        <project_file path="./script/Keyboard.as" filetype="as" />
+        <project_file path="./script/QuestData.as" filetype="as" />
+        <project_file path="./script/Active.as" filetype="as" />
+        <project_file path="./script/PMove.as" filetype="as" />
+        <project_file path="./script/TempEnt.as" filetype="as" />
+        <project_file path="./script/Spell.as" filetype="as" />
+        <project_file path="./script/main.as" filetype="as" />
+        <project_file path="./script/level.as" filetype="as" />
+        <project_file path="./script/table.as" filetype="as" />
+        <project_file path="./script/Trade.as" filetype="as" />
+        <project_file path="./script/vendor.as" filetype="as" />
+        <project_file path="./script/combat.as" filetype="as" />
+        <project_file path="./script/Math.as" filetype="as" />
+        <project_file path="./script/monster.as" filetype="as" />
+        <project_file path="./script/QuestEvent.as" filetype="as" />
+        <project_file path="./script/stats.as" filetype="as" />
+        <project_file path="./script/uiinclude.as" filetype="as" />
+    </project_folder>
+    <project_file path="./base2.fla" filetype="fla" profile="" />
+    <project_file path="./INCLUDEME.as" filetype="as" />
+</flash_project>
